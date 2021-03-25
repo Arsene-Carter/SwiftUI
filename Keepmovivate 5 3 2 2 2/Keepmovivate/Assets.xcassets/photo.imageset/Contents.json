@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "91087331-icône-de-profil-d-avatar-par-défaut-pour-le-mâle-espace-réservé-photo-gris-vecteur-d-illustrations.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
